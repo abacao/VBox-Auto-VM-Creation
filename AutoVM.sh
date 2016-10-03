@@ -1,4 +1,13 @@
 #!/bin/bash
+#
+# Scritp made to auto create a VM environment with Virtualbox in Linux
+#
+# Pre requisites:
+# - Linux
+# - Virtualbox
+#
+# Author: andre@bacao.pt
+# Dtae: 03/10/2016
 
 VM='AutoVM'
 TYPE_OS='Ubuntu_64'
